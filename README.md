@@ -1,10 +1,14 @@
-- 👋 Hi, I’m Ekaale
-- 👀 I’m interested in Web development, web scraping, data analysis and technology stuffwise. I have a background in Business Information systems but I love the art of coding. 
-- 🌱 I’m currently learning python flask and it's application in web development. 
-- Currently working on personal project called sporty-a web application to connect local players to local teams for recreational sports. 
-- I like to talk about soccer, open data access, and technology accessibility. In my free time, I like to do photography; walk around the city with my drone(dji mini) and canon eos). 
-- 💞️ If you're starting out as a programmer, feel free to reach out to me. I am also starting out and there is no one perfect.
-- All I care is to make the world a better place for everyone regardless of economic status. 
+- 👋 Hi, there my name is [Ekaale](https://github.com/gilbertekalea)
+- 🧔 I am a ✔ freelancer, ✔ intermediate software developer, ✔ business development intern and ✔ Business consultant(for small scale)
+- 🏫 I have a strong background in Business Information systems and business analysis.  
+- 💙 Interested in *technology, web scraping, data analysis, python(Flask) and web development*
+- 💻 Currently working on my personal project the [booking.com_crawler](https://github.com/gilbertekalea/booking.com_crawler). Also, you might be interested with [Premier League bot](https://github.com/gilbertekalea/PremierLeague)
+- 📢 I like to talk about soccer, python, web development, accessibility to open data and technology. 
+-  📷 In my free time, I do photography [check my instagram profile](https://www.instagram.com/?utm_source=pwa_homescreen). My photography stack is : *🚁 drone(dji mini), 📱S22 and 📸 Canon eos.* 
+
+- 💞️ Be responsible, one piece of code can dramatically changes someone's life.
+- ▶️ Follow me on [Linkedin](https://www.linkedin.com/in/gilbert-ekale-amoding-4b0952149/) and [Twitter](https://twitter.com/ekalemoding)
+
 <!---
 gilbertekalea/gilbertekalea is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
