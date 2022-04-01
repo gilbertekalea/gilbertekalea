@@ -1,4 +1,5 @@
-- 👋 Hi, there my name is [Ekaale](https://github.com/gilbertekalea)
+##### Hi there my name is [Ekaale](https://github.com/gilbertekalea), 
+
 - 🧔 I am a ✔ freelancer, ✔ intermediate software developer, ✔ business development intern and ✔ Business consultant(for small scale)
 - 🏫 I have a strong background in Business Information systems and business analysis.  
 - 💙 Interested in *technology, web scraping, data analysis, python(Flask) and web development*
