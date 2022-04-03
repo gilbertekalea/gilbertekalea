@@ -5,7 +5,7 @@
 - 💙 Interested in *technology, web scraping, data analysis, python(Flask) and web development*
 - 💻 Currently working on my personal project the [booking.com_crawler](https://github.com/gilbertekalea/booking.com_crawler). Also, you might be interested with [Premier League bot](https://github.com/gilbertekalea/PremierLeague)
 - 📢 I like to talk about soccer, python, web development, accessibility to open data and technology. 
--  📷 In my free time, I do photography [check my instagram profile](https://www.instagram.com/merimela.kigeugeu/). My photography stack is : *🚁 drone(dji mini), 📱S22 and 📸 Canon eos.* 
+-  📷 In my free time, I do photography [check my instagram profile](https://www.instagram.com/merimela.kigeugeu/). My photography stack : *🚁 drone(dji mini), 📱S22 and 📸 Canon eos.* 
 
 - 💞️ Be responsible, one piece of code can dramatically changes someone's life.
 - ▶️ Follow me on [Linkedin](https://www.linkedin.com/in/gilbert-ekale-amoding-4b0952149/) and [Twitter](https://twitter.com/ekalemoding)
