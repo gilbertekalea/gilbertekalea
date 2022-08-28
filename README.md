@@ -1,6 +1,6 @@
 ##### Hi there my name is [Ekaale](https://github.com/gilbertekalea), 
 
-- 🧔 I am a ✔ freelancer, ✔ intermediate software developer, ✔ Business Dev intern and ✔ Business consultant(for small scale)
+- 🧔 I am a ✔ freelancer, ✔ intermediate Python Developer, ✔ Business Information Systems Graduate ✔ Amateur Photographer
 - 🏫 I have a strong background in Business Information systems and business analysis.  
 - 💙 Interested in *technology, web scraping, data analysis, python(Flask) and web development*
 - 💻 Currently working on my personal project the [booking.com_crawler](https://github.com/gilbertekalea/booking.com_crawler). Also, you might be interested with [Premier League bot](https://github.com/gilbertekalea/PremierLeague)
